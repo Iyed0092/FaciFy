@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# PyTorch / GAN models
+*.pt
+*.pth
+*.pkl
+torch_extensions/
+
+# Large project folders
+backend/models/stylegan3/
+data/raw/
+data/processed/
+data/embeddings/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
