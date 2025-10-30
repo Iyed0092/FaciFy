@@ -1,8 +1,8 @@
 # FaciFy 🚀
 
-**FaciFy** is an AI-powered face transformation platform designed to explore cutting-edge generative models. It combines **face aging** prediction and **anime-style conversion** in a single, interactive toolkit.
+**FaciFy** is an AI-powered face transformation platform. It combines **face aging** prediction and **anime-style conversion** in a single, interactive toolkit.
 
-> ⚠️ **Work in Progress:** Some modules are under development. The project demonstrates advanced architecture and a working frontend scaffold.
+> ⚠️ **Work in Progress:** Some modules are under development.
 
 ---
 
@@ -13,6 +13,18 @@
 - **State-of-the-Art GANs:** Built on **StyleGAN3** with conditional capabilities and pretrained weights.  
 - **Interactive Frontend:** Simple UI allows uploading an image and instantly previewing transformations.  
 - **Scalable Architecture:** Modular backend with scripts, preprocessing pipeline, and data handling for easy expansion.
+
+---
+
+### 🚀 Technical Highlights
+
+- **Face Representation**: <span style="color:#1f77b4; font-weight:bold;">ArcFace embeddings</span> capture facial identity while preserving unique features for realistic transformations.
+
+- **Generative Models**: <span style="color:#d62728; font-weight:bold;">StyleGAN3</span> ensures high-resolution, coherent, and artifact-free image generation.
+
+- **Modular Pipeline**: Clear separation of <span style="color:#2ca02c; font-weight:bold;">data preprocessing, embedding extraction, and image synthesis</span> allows easy experimentation with new models or datasets.
+
+- **Data Handling**: Supports <span style="color:#ff7f0e; font-weight:bold;">raw and processed face datasets</span> and can handle large-scale embeddings efficiently.
 
 ---
 
