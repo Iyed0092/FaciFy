@@ -76,7 +76,7 @@ FaciFy/
 
 ---
 
-## 🏆 Strong Points (Recruiter Highlights)
+## 🏆 Strong Points 
 
 - **Advanced AI Research:** Demonstrates GAN expertise and understanding of conditional generation.  
 - **Modular & Scalable:** Clearly organized backend, frontend, and data pipeline for fast iteration.  
@@ -85,16 +85,6 @@ FaciFy/
 - **Recruiter-Friendly:** Structured code, clean architecture, and dataset management.
 
 ---
-        
-## 📂 Getting Started (Optional for Local Testing)
-
-```bash
-git clone https://github.com/yourusername/facify.git
-cd facify
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate     # Windows
-pip install -r requirements.txt
 
 
 📌 Status
