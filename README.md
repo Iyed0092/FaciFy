@@ -88,15 +88,7 @@ FaciFy/
 
 ---
 
-## 🏆 Strong Points 
 
-- **Advanced AI Research:** Demonstrates GAN expertise and understanding of conditional generation.  
-- **Modular & Scalable:** Clearly organized backend, frontend, and data pipeline for fast iteration.  
-- **Interactive Demo:** Web interface ready for showcasing transformations.  
-- **Pretrained Model Integration:** StyleGAN3 weights included for rapid experimentation.  
-- **Recruiter-Friendly:** Structured code, clean architecture, and dataset management.
-
----
 
 
 📌 Status
